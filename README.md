@@ -1,7 +1,5 @@
 # ⛅ Real-time Weather Forecast App
-
-Welcome to the **Real-time Weather Forecast App**!  
-This is a simple and stylish web app that shows current weather updates for any city you type in — built with 💻 Python, 🌐 HTML/CSS, and ☁️ JavaScript.
+This is a web app that shows current weather updates for any city you type in — built with 💻 Python, 🌐 HTML/CSS, and ☁️ JavaScript.
 
 ---
 
